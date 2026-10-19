@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🎮 NEXUS GAMING
 ### Premium Cyberpunk E-Commerce Template
 
